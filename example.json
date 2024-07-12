@@ -1,0 +1,34 @@
+{
+  "pokemons": [
+    {
+      "pokemon1": {
+        "name": "pikachu",
+        "poder": 150,
+        "nivel": 20.2,
+        "abilities": [
+          {
+            "trueno": {
+              "damage": 200,
+              "tipo": "rayo"
+            }
+          }
+        ]
+      },
+      "pokemon2": {
+        "name": "pikachu",
+        "poder": 150,
+        "nivel": 20,
+        "abilities": [
+          {
+            "trueno": {
+              "damage": 200,
+              "tipo": "rayo",
+              "evolution": true,
+              "casa": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
